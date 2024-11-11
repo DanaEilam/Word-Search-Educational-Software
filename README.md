@@ -3,7 +3,7 @@
 It was programmed using Flash Builder and Adobe Animate and I worked with many parties to fully create it – filming unit, graphic designers, transcribers and user experience experts.</b>
 
 # Explanation
-<ins>Since this is a military product, I cannot share the code or the product itself. Therefore,<b> I attached a demonstration video for this educational software at the bottom of this file.</b></ins>
+<ins>Since this is a military product, I cannot share the code or the product itself. Therefore,<b> I attached a demonstration video of this educational software at the bottom of this file.</b></ins>
 This was an educational activity that was suitable to all those who serve in the army, which conveyed content about the Sigd holiday through a competition between two teams based on a word search puzzle. 
 
 After the opening screens and a brief explanation of the game, the game screen appears, where you can see which team is currently playing, the word board of that team, the word they need to find, the points status for both teams and an "i" button that shows the instructions again.
