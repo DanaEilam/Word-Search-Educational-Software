@@ -1,6 +1,6 @@
 # Introduction
 <b>This is an example of a full game-based educational software I programmed in the army, similar to a word search puzzle.
-It was programmed using Flash Builder and Adobe Animate and I worked with many parties to fully create it – filming unit, graphic designers, transcribers and user experience experts.</b>
+It was programmed in ActionScript using Flash Builder and Adobe Animate and I worked with many parties to fully create it – filming unit, graphic designers, transcribers and user experience experts.</b>
 
 # Explanation
 <ins>Since this is a military product, I cannot share the code or the product itself. Therefore,<b> I attached a demonstration video of this educational software at the bottom of this file.</b></ins>
